@@ -14,7 +14,15 @@ A colloquium of web application development projects | N1X - N100x
      [Stats](./Home/Stats)
      </td> 
      <td>
-     Developer
+     [Developer §](./dev)
      </td>
 </tr> 
+<tr>
+ </td>  </td> 
+     <td> </td> 
+     <td> </td> 
+     <td> </td> 
+  
+     <td> </td> 
+     </tr>
 </table>
