@@ -23,7 +23,7 @@ A colloquium of web application development projects | N1X - N100x
 
 
  <table>
- <tr><b>
+ <strong> <tr>
      <td>
      S.No.
      </td>
@@ -31,16 +31,16 @@ A colloquium of web application development projects | N1X - N100x
      [Home](/Home/)
      </td>
      <td>
-     [ID](/Home/Projects)
+     [PR ID](/Home/Projects)
      </td>     
      <td>
      [Stats](/Home/Stats)
      </td> 
      <td>
-     Developer
-     </td>
-     </b>
-     </tr>
+     Dev β
+     </td> 
+     </tr></strong>
+     
      <tr>
      <td>
      S.No.
