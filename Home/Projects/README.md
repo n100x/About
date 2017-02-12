@@ -50,11 +50,18 @@ A colloquium of web application development projects | N1X - N100x
      <td>-
      </td>
 </tr> 
-     
+          
+<tr>
+     <td>N1Xweb</td>
+     <td>N1x.website</td>
+     <td>itsN1X</td>     
+     <td>v1.4.0</td> 
+     <td>PUBLIC</td>
+</tr> 
 <tr>
      <td>7424</td> 
      <td>K Search</td> 
-     <td>[K-Wiki](http://N1X.website/)</td> 
+     <td>Wiki for Wikis</td> 
      <td>v0.0.1</td>  
      <td>INFORMATION / WIKI</td> 
 </tr>
@@ -62,7 +69,7 @@ A colloquium of web application development projects | N1X - N100x
 <tr>
      <td>7438</td> 
      <td>missalc</td> 
-     <td>Notifications!</td> 
+     <td>Miss-A-Class</td> 
      <td>v0.0.0</td>
      <td>EDUCATION / UTILITIES</td> 
 </tr>
