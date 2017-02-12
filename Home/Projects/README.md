@@ -1,7 +1,6 @@
 # N100x - Projects
 A colloquium of web application development projects | N1X - N100x
 
-# Navigation:
  <table>
  <tr>
      <td>
@@ -23,7 +22,7 @@ A colloquium of web application development projects | N1X - N100x
  <table>
   <tr>
      <td>
-     S. ID.
+     __S. ID.__
      </td>
      <td>
      __Home__
@@ -35,40 +34,37 @@ A colloquium of web application development projects | N1X - N100x
      __Stats__
      </td> 
      <td>
-     Dev β
+     __Dev β__
      </td> 
-     </tr>
-     
-     <tr>
-     <td>
-     S.No.
-     </td>
-     <td>
-     [N1Xweb](/Home/)
-     </td>
-     <td>
-     [N1X.website](/Home/Projects)
-     </td>     
-     <td>
-     [218](/Home/Stats)
-     </td> 
-     <td>
-     itsN1X
-     </td></tr> 
-     <tr>
-     <td> 7441-0001 </td> 
-     <td>K Search</td> 
-     <td>[K.N1X](http://K.N1X.website/HOME/)</td> 
-     <td>0.0.1</td>  
-     <td>[K-gh](./Home/)</td> 
 </tr>
      
 <tr>
-     <td>7449-0002</td> 
-     <td>Class</td> 
-     <td>for all.</td> 
-     <td>v0.0.1</td>
-     <td> ~ </td> 
+     <td>-
+     </td>
+     <td>-
+     </td>
+     <td>- 
+     </td>     
+     <td>-
+     </td> 
+     <td>-
+     </td>
+</tr> 
+     
+<tr>
+     <td>7434</td> 
+     <td>K Search</td> 
+     <td>[K-Wiki](http://N1X.website/</td> 
+     <td>0.0.1</td>  
+     <td>INFORMATION</td> 
+</tr>
+     
+<tr>
+     <td>7448</td> 
+     <td>missalc</td> 
+     <td>Notifications!</td> 
+     <td>v0.0.0</td>
+     <td>EDUCATION / UTILITIES</td> 
 </tr>
      
      
