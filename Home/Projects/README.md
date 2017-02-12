@@ -22,7 +22,7 @@ A colloquium of web application development projects | N1X - N100x
  <table>
   <tr>
      <td>
-     __S. ID.__
+     __X.I.D.__
      </td>
      <td>
      __Home__
@@ -31,10 +31,10 @@ A colloquium of web application development projects | N1X - N100x
      __PR ID__
      </td>     
      <td>
-     __Stats__
+     __Stage__
      </td> 
      <td>
-     __Dev β__
+     __Desc. β__
      </td> 
 </tr>
      
@@ -52,21 +52,27 @@ A colloquium of web application development projects | N1X - N100x
 </tr> 
      
 <tr>
-     <td>7434</td> 
+     <td>7424</td> 
      <td>K Search</td> 
-     <td>[K-Wiki](http://N1X.website/</td> 
-     <td>0.0.1</td>  
-     <td>INFORMATION</td> 
+     <td>[K-Wiki](http://N1X.website/)</td> 
+     <td>v0.0.1</td>  
+     <td>INFORMATION / WIKI</td> 
 </tr>
      
 <tr>
-     <td>7448</td> 
+     <td>7438</td> 
      <td>missalc</td> 
      <td>Notifications!</td> 
      <td>v0.0.0</td>
      <td>EDUCATION / UTILITIES</td> 
 </tr>
-     
-     
+
+<tr>
+     <td>7449</td>
+     <td>jsON to iCAL</td>
+     <td>Think. Create. Export.</td>     
+     <td>v0.0.1</td> 
+     <td>UTILITIES / MANAGEMENT</td>
+</tr> 
 
 </table> 
