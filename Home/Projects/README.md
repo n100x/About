@@ -20,26 +20,24 @@ A colloquium of web application development projects | N1X - N100x
 </table> 
 
 ## Projects List
-
-
  <table>
- <strong> <tr>
+  <tr>
      <td>
-     S.No.
+     S. ID.
      </td>
      <td>
-     [Home](/Home/)
+     __Home__
      </td>
      <td>
-     [PR ID](/Home/Projects)
+     __PR ID__
      </td>     
      <td>
-     [Stats](/Home/Stats)
+     __Stats__
      </td> 
      <td>
      Dev β
      </td> 
-     </tr></strong>
+     </tr>
      
      <tr>
      <td>
