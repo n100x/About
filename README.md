@@ -45,6 +45,6 @@ Feel free to interact with the developer by using the issues util.
 - Email : <hello@N1X.website>
 - Tweets : [@itsN1X](http://twitter.com/itsN1X)
 - IRC Channels : 
-* /# itsN1X
-* /# N1Xweb
-* (Also often at /# NIXos)
+  * /# itsN1X
+  * /# N1Xweb
+  * (often at /# NIXos)
