@@ -17,27 +17,22 @@ A colloquium of web application development projects | N1X - N100x
 </tr> 
 </table> 
 
+---
+
 # N100x List
 This list features all the Projects that are currently active.
 
-### In-Production :  
-* TopFAM! 
 
-### LIVE Deploys :  
-* Freak Apps 
- * Android <http://freakappsandroid.github.io>
+### Meta : 
 
-### In-Development :  
-* K-Search
-* TopFAM! 
-* miSSALC (Miss-A-Class)
 
-### @ Alpha Releases :
-* Ksaipra Racing (v7.2.1) <http://Ksaipra.Racing>
+### History : 
+* Envisioned in 2009.
+ * Incubation in 2011.
+  * Testing started 2013.
+   * Re-Oganization in 2015.
+    * Production Facelift 2016.
+     * Pre-Beta released in 2017.
 
-### @ beta Releases :  
-* N1Xweb <http://N1X.website>
-
-### Archived ( PRE ) :  
-* HE Powerplant
-* NickOS ( v2.6.1 )
+### Details
+Check out the "Projects" section above to explore more in-depth.
