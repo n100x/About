@@ -91,7 +91,7 @@ A colloquium of web application development projects | N1X - N100x
 </tr>
      
 <tr>
-     <td>6./td> 
+     <td>6.</td> 
      <td>vMozilla</td> 
      <td>MDN-Vellore</td> 
      <td>v1.0.0</td>
@@ -125,5 +125,21 @@ A colloquium of web application development projects | N1X - N100x
      <td>Emit. Time.</td>     
      <td>v0.0.1</td> 
      <td>MANAGEMENT</td>
-</tr>
+</tr> 
+ <tr>
+     <td>11.</td>
+     <td>24chanW</td>
+     <td>Streaming</td>     
+     <td>v0.0.1</td> 
+     <td>FREENET</td>
+</tr> 
+ <tr>
+     <td>13.</td>
+     <td>Auct.io</td>
+     <td>Cheapest Hammer bids</td>     
+     <td>v0.0.1</td> 
+     <td>FREENET</td>
+</tr> 
+
+
 </table> 
