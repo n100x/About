@@ -47,4 +47,3 @@ Feel free to interact with the developer by using the issues util.
 - IRC Channels : 
   * /# itsN1X
   * /# N1Xweb
-  * (often at /# NIXos)
